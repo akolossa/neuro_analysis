@@ -36,13 +36,16 @@ To view and run the Jupyter notebooks, you will need to have Jupyter installed o
 
 ```sh
 pip install jupyter
+```
+Clone the repository to your local machine using:
+    ```sh
+    git clone https://github.com/yourusername/neuro_analysis.git
+    ```
 
-### Clone the repository to your local machine using:
-git clone https://github.com/yourusername/neuro_analysis.git
-
-#### Navigate to the directory and start the Jupyter notebook server:
-cd neuro_analysis
+Navigate to the directory and start the Jupyter notebook server:
+```sh cd neuro_analysis
 jupyter notebook
+```
 
 You will be able to view and run the notebooks in your web browser.
 
